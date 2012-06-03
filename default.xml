@@ -59,6 +59,7 @@
   <project path="device/samsung/espressowifi" name="AOKP/android_device_samsung_espressowifi" remote="gh" revision="ics" />
   <project path="device/samsung/fascinatemtd" name="AOKP/device_samsung_fascinatemtd" remote="gh" revision="ics" />
   <project path="device/samsung/galaxys2" name="frozenaokp/android_device_samsung_galaxys2" remote="gh" revision="ics" />
+  <project path="device/samsung/i9100g" name="frozenaokp/android_device_samsung_i9100g" remote="gh" revision="ics" />
   <project path="device/samsung/n7000" name="frozenaokp/android_device_samsung_n7000" remote="gh" revision="ics" />
   <project path="device/samsung/galaxysmtd" name="AOKP/device_samsung_galaxysmtd" remote="gh" revision="ics" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
@@ -230,6 +231,7 @@
   <project path="hardware/ti/wlan" name="AOKP/android_hardware_ti_wlan" remote="gh" revision="ics" />
   <project path="hardware/ti/wpan" name="AOKP/android_hardware_ti_wpan" remote="gh" revision="ics" />
   <project path="kernel/samsung/smdk4210" name="frozenaokp/android_kernel_samsung_smdk4210" remote="gh" revision="ics" />
+  <project path="kernel/samsung/t1" name="CyanogenMod/android_kernel_samsung_t1" remote="gh" revision="ics" />
   <project path="kernel/htc/endeavor" name="intermediaterepresentation/android_kernel_htc_endeavor" remote="gh" revision="master" />
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
