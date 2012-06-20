@@ -36,6 +36,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"  />
   <project path="device/htc/bravo" name="AOKP/device_htc_bravo" remote="gh" revision="ics" />
+  <project path="device/htc/endeavoru" name="frozenaokp/android_device_htc_endeavoru" remote="gh" revision="ics" />
   <project path="device/htc/inc" name="AOKP/android_device_htc_inc" remote="gh" revision="ics" />
   <project path="device/htc/supersonic" name="AOKP/android_device_htc_supersonic" remote="gh" revision="ics" />
   <project path="device/htc/ville" name="AOKP/android_device_htc_ville" remote="gh" revision="ics" />
@@ -60,6 +61,7 @@
   <project path="device/samsung/espressowifi" name="AOKP/android_device_samsung_espressowifi" remote="gh" revision="ics" />
   <project path="device/samsung/fascinatemtd" name="AOKP/device_samsung_fascinatemtd" remote="gh" revision="ics" />
   <project path="device/samsung/galaxys2" name="Bajee11/android_device_samsung_galaxys2" remote="gh" revision="ics" />
+  <project path="device/samsung/i9100g" name="frozenaokp/android_device_samsung_i9100g" remote="gh" revision="ics" />
   <project path="device/samsung/galaxysmtd" name="AOKP/device_samsung_galaxysmtd" remote="gh" revision="ics" />
   <project path="device/samsung/hercules" name="AOKP/android_device_samsung_hercules" remote="gh" revision="ics" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="gh" revision="ics" />
